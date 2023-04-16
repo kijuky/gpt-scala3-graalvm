@@ -1,0 +1,3 @@
+[EXECUTABLE]
+scala3-graalvm
+
